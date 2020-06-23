@@ -1,0 +1,15 @@
+name: micrate
+version: 0.6.1
+crystal: 0.32.1
+
+authors:
+  - Juan Edi <jedi11235@gmail.com>
+
+maintainers:
+  - Isaac Sloan <isaac@isaacsloan.com>
+  - Dru Jensen <drujensen@gmail.com>
+
+dependencies:
+  db:
+    github: crystal-lang/crystal-db
+    version: ~> 0.8.0
