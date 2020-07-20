@@ -6,13 +6,15 @@
 
 - [server-wsp-flow-chart.pdf](server-wsp-flow-chart.pdf)
 
+- [服务器与Docker接口文档](api.html)
+
 - [服务器与APP接口文档](interface.md)
 
 - [服务器与APP通讯开发指南](transfer.md)
 
 - [demo示例](wsp_demo)
 
-- [Docker容器的Dockerfile和配置文件](wsp_server_1_0_2)
+- [Docker容器的Dockerfile和配置文件](wsp_server_1_0_3)
 
 ### Docker服务拥有的路径
 
